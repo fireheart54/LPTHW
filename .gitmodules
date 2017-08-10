@@ -1,0 +1,3 @@
+[submodule "LPTHW"]
+	path = LPTHW
+	url = https://github.com/fireheart54/LPTHW.git
